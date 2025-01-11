@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error scenario in Python: a function that exhibits unexpected behavior due to insufficient error handling involving zero division. The `bug.py` file contains the erroneous code. The `bugSolution.py` file provides a solution demonstrating more robust error handling, enhancing the function's reliability and preventing unexpected crashes.
